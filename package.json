@@ -1,0 +1,30 @@
+{
+ "name": "nw-app",
+ "version": "1.0.0",
+ "description": "first app",
+ "main": "index.html",
+ "window": {
+    "title": "First App",
+    "toolbar": true,
+    "width": 800,
+    "height": 600,
+    "min_width": 640,
+    "min_height": 480,
+    "position": "center",
+    "resizable": true
+ },
+ "devDependencies": { },
+ "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+ },
+ "repository": {
+    "type": "git",
+    "url": "https://github.com/Zeront/nw-app.git"
+ },
+ "author": "ncosta",
+ "license": "ISC",
+ "bugs": {
+    "url": "https://github.com/Zeront/nw-app/issues"
+ },
+ "homepage": "https://github.com/Zeront/nw-app#readme"
+}
